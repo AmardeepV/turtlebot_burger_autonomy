@@ -1,6 +1,6 @@
 [submodule "ldlidar_ros2"]
 	path = ldlidar_ros2
-	url =  https://github.com/ldrobotSensorTeam/ldlidar_ros2.git
+	url = https://github.com/ldrobotSensorTeam/ldlidar_ros2.git
 [submodule "serial_motor_demo"]
 	path = serial_motor_demo
 	url = https://github.com/joshnewans/serial_motor_demo.git
